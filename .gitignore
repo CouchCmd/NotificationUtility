@@ -6,3 +6,5 @@
 /NotificatUtility/NotificatUtility/bin/Debug/netstandard2.0
 /NotificatUtility/NotificatUtility/obj
 /.vs
+/NotificatUtility/NotificatUtility/bin/Release
+/NotificatUtility/.vs/NotificatUtility/DesignTimeBuild
